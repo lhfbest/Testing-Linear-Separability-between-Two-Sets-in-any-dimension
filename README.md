@@ -2,6 +2,9 @@
 
 **This code can be used to quickly determine the linear separability between two sets in any dimension. A GPU is required.**
 
+![image](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/74c0b163-e5d1-4675-ae73-635d14c9d64c)
+
+
 **It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
 So, if used, remember to cite this reference.**
 
