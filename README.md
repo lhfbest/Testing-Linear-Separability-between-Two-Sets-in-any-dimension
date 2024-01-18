@@ -1,5 +1,8 @@
 # Determine-the-linear-separability-between-two-sets-in-any-dimension
 
+**It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
+So, if used, remember to cite this reference.**
+
 **This code can be used to quickly determine the linear separability between two sets in any dimension. A GPU is required.**
 
 ![LS](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/94f2e066-707a-407a-b306-10617608b1ed)
@@ -7,9 +10,6 @@ Fig. 1 Example of two sets being linearly separable
 
 ![NLS](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/af9e4a1f-f0e7-4637-9538-c42a12690d5d)
 Fig. 2 Example of two sets that are non linearly separable
-
-**It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
-So, if used, remember to cite this reference.**
 
 **This code is implemented solely to verify the feasibility of the algorithm presented in the paper. 
 There are many aspects where efficiency can be further optimized. Your corrections and suggestions are most welcome!**
