@@ -6,10 +6,10 @@ So, if used, remember to cite this reference.**
 **This code can be used to quickly determine the linear separability between two sets in any dimension. A GPU is required.**
 
 ![LS](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/94f2e066-707a-407a-b306-10617608b1ed)
-Fig. 1 Example of two sets being linearly separable
+`Fig. 1 Example of two sets being linearly separable`
 
 ![NLS](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/af9e4a1f-f0e7-4637-9538-c42a12690d5d)
-Fig. 2 Example of two sets that are non linearly separable
+`Fig. 2 Example of two sets that are non linearly separable`
 
 **This code is implemented solely to verify the feasibility of the algorithm presented in the paper. 
 There are many aspects where efficiency can be further optimized. Your corrections and suggestions are most welcome!**
@@ -25,6 +25,8 @@ The author's research interests include machine learning, classification problem
 Contact Information 1: huanlyu@nuist.edu.cn    
 Contact Information 2: 1726341330@qq.com
 
+Creation Date: 2024-01-17
+Last Modified Date: 2024-01-18
 
 
 
