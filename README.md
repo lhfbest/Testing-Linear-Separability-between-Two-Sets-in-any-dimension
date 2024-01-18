@@ -1,7 +1,7 @@
 # Testing-Linear-Separability-between-Two-Sets-in-any-dimension
 
 **It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
-So, if used, remember to cite this reference.**
+Please kindly remember to cite this reference if it is utilized.**
 
 **This code can be used to quickly determine the linear separability between two sets in any dimension. A GPU is required.**
 
