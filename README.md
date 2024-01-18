@@ -1,4 +1,4 @@
-# Determine-the-linear-separability-between-two-sets-in-any-dimension
+# Testing-Linear-Separability-between-Two-Sets-in-any-dimension
 
 **It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
 So, if used, remember to cite this reference.**
