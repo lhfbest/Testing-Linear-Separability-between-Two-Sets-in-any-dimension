@@ -3,6 +3,8 @@
 **It is based on paper: "Shuiming Zhong and Huan Lyu, 'A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets', TPAMI 2024."
 Please kindly remember to cite this reference if it is utilized.**
 
+"Zhong S, Lyu H, Lu X, Wang B, Wang D. A New Sufficient & Necessary Condition for Testing Linear Separability between Two Sets. IEEE Trans Pattern Anal Mach Intell. 2024 Jan 22;PP. doi: 10.1109/TPAMI.2024.3356661. Epub ahead of print. PMID: 38252586."
+
 **This code can be used to quickly determine the linear separability between two sets in any dimension. A GPU is required.**
 
 ![LS](https://github.com/lhfbest/Determine-the-linear-separability-between-two-sets-in-any-dimension/assets/47107649/94f2e066-707a-407a-b306-10617608b1ed)
